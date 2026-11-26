@@ -1,4 +1,4 @@
-# JAVA_FULLSTACK-_PROJECT
+SmartExpenseTracker
 # Smart Expense Tracker 💰
 
 A full-stack web application developed using **Java, MySQL, HTML, CSS, and JavaScript** to manage personal income and expenses efficiently.
