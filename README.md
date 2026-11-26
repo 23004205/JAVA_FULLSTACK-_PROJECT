@@ -197,7 +197,7 @@ WHERE type = 'Expense';
 Remaining Balance = Total Income - Total Expenses
 ```
 
-## outpus 
+## outputs 
 <img width="1920" height="1020" alt="dashboard" src="https://github.com/user-attachments/assets/2b0f53cd-011b-4d26-a84b-be3c08c8ee39" />
 
 <img width="1920" height="1020" alt="transactions" src="https://github.com/user-attachments/assets/c427ea51-f77e-4b74-b2fa-a48cc8a53a68" />
